@@ -2,8 +2,8 @@
 
 int main()  {
 
-    char nome;
-    double salario_fixo, total_vendas, salario_final;
+    int nome;
+    float salario_fixo, total_vendas, salario_final;
 
     printf("Insisra o nome do funcionario: \n");
     scanf("%s", &nome);
