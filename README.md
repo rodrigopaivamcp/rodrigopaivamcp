@@ -1,5 +1,6 @@
 - **Above you can see the coding I did using C language**
 - These are various math problems the class had to solve in this semester
+- **Following below you can see a quick introduction about me**
 - 👋 Hi, I’m @rodrigopaivamcp
 - 👀 I’m interested in Computer Science and History
 - 🌱 I’m currently learning C language 
