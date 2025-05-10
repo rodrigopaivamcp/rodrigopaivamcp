@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on my new GitHub project 
 - 📫 How to reach me: You can use the e-mail rodrigormcp@icloud.com and my LinkedIn is www.linkedin.com/in/rodrigo-paiva-22695435b
 - 😄 Pronouns: He and Him
-- ⚡ Fun fact: I once had the opportunity to study abroad in the Bahamas! 
+- ⚡ Fun fact: I once had the opportunity to study abroad in the Bahamas!
+- **Above you can see the coding I did using C language**
 
 <!---
 rodrigopaivamcp/rodrigopaivamcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
